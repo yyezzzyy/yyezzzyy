@@ -2,7 +2,7 @@
 <div align="center">
   <section>
     <header>
-       <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&color=gradient&text=예지's%20github&textBg=false&section=header&reversal=false&fontSize=40&fontAlign=50&fontAlignY=50&animation=twinkling&descAlign=50&descAlignY=60" />
+       <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&color=gradient&text=%20예지's%20github&textBg=false&section=header&reversal=false&fontSize=40&fontAlign=50&fontAlignY=50&animation=twinkling&descAlign=50&descAlignY=60" />
       <h3>
           🌟 Welcome ! 🌟
       </h3>
