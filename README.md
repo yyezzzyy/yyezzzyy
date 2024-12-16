@@ -11,7 +11,7 @@
   <details>
   <summary>About Me</summary>
   <span>
-    <a href="https://www.instagram.com/yyezzzyy/">
+    <a href="https://www.instagram.com/yyezzzy/">
       <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/></a>
     <a href="mailto:t47047877@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
