@@ -18,18 +18,6 @@
   </span>
     </summary>
   </details>
-  
-  <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyezzzyy&?cache_bust=1&layout=donut&show_icons=true&hide=html&theme=dracula&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /></a>  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=yyezzzyy&show_icons=true&hide_border=true&theme=dracula" width=56% /></a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yyezzzyy&bg_color=282a36&color=FFB6C1&title_color=ffeacc&line=ADD8E6&point=ff95801a&area=true&area_color=ADD8E6&hide_border=true&grid=false" width=94% /></a>
-  </div>
-</div>
-
-
  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFAB0,10:F4CFDF,30:D6EFED,75:BFACE0,100:F7ECDE&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 <main>
